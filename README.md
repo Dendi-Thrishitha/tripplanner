@@ -1,15 +1,11 @@
 <div align="center">
-  <h1 align="center">JourneyJolt</h1 >
+  <h1 align="center">Wander Boost</h1 >
   <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
     <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
   <div align="center">
-  <h2 align="center">Stats</h2 >
   
-  ![GitHub forks](https://img.shields.io/github/forks/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub Repo stars](https://img.shields.io/github/stars/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub watchers](https://img.shields.io/github/watchers/satendra03/trip-planner-by-satendra)  
 </div>
 
   <h3>AI-Based Trip Planner</h3>
@@ -17,19 +13,11 @@
   <p align="center">
     Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
     <br />
-    <br/>
-     <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
-     <br />
-     <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
-    <br />
-    <br />
+    
     <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
     <br />
     <br />
-<!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
-<!--     • -->
-    <a href="https://github.com/satendra03/trip-planner-by-satendra/issues">Report Bug</a>
-  </p>
+
 </div>
 </br>
 <div align="center">
@@ -39,23 +27,15 @@
 </div>
 
 
-<div class="sampleImages" align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <a href="https://ibb.co/gRX4Bcx"><img src="https://i.ibb.co/X7N17ps/main.png" alt="image" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/TbHgn5W/form.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/bPcmZwX/all.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
-<!--     <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-<!--     <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-</div>
 </br>
 
-**JourneyJolt** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
+**WanderBoost** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
 
-Key features of JourneyJolt include:
+Key features of WanderBoost include:
 * **Personalized Recommendations**: The AI suggests ideal destinations, hotels, and activities tailored to the traveler’s preferences.
 * **Automated Itinerary Generation**: The app automatically creates a full itinerary that considers factors like travel time and user preferences.
 
-JourneyJolt aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
+WanderBoost aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
 
 
 
@@ -90,7 +70,7 @@ Before you begin, ensure you have the following installed:
 
 ### Services & API Keys Setup
 
-To fully integrate JourneyJolt with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
+To fully integrate WanderBoost with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
 
  
 <details>
@@ -201,7 +181,7 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**  
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+     https://github.com/Dendi-Thrishitha/tripplanner.git
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
@@ -237,7 +217,7 @@ The installation process is straightforward. You can either clone the repository
    ```sh
    npm run dev
    ```
-    This will run the project locally and you can access it at http://localhost:5173.
+    This will run the project locally and you can access it at http://localhost:3000.
 
 #### By following these simple steps, you'll have the project up and running in no time!
 
@@ -274,57 +254,7 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </br>
 <div align="center">
 
-## Contributing
 
-</div>
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
-
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
-
-If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
-
-### How to Contribute:
-
-1. **Fork the repository**  
-   Click on the "Fork" button at the top of this repo to create a copy of the repository on your own GitHub account.
-
-2. **Clone the repo**  
-   Clone your forked version of the repo to your local machine.  
-   ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
-   ```
-
-3. **Create your feature branch**  
-   Create a new branch for the feature you're working on.
-   ```sh
-   git checkout -b feature/your-feature-nam
-   ```
-
-4. **Make your Changes**  
-   Modify the code, add new features, or fix bugs. Don't forget to test your changes!
-
-
-5. **Commit your changes**  
-   Commit the changes you've made with a descriptive message.
-   ```sh
-   git commit -m 'Add a new feature or fix a bug'
-   ```
-
-6. **Push to your branch**  
-   Push the changes to your forked repo.
-   ```sh
-   git push origin feature/your-feature-name
-   ```
- 
-4. **Open a Pull Request**  
-   Go to the original repo and click "New Pull Request". Select your branch and provide a description of what your changes do. Once you're ready, submit the pull request!
-  
-
-## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
-
-
-</br>
 <div align="center">
 
 ## License
@@ -334,24 +264,16 @@ Distributed under the MIT License. See <code>LICENSE.md</code> for more informat
 
 
 </br>
-<div align="center">
 
-## Contact Us
-
-</div>
-We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
 
 ### Ways to Contact Us:
 
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
 
-2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
+1. **Email**: Reach out to us via email at:
+   - **dendi.thrishtha@gmail.com** 
 
-3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+2. **Social Media**:
+   
+   - **LinkedIn**: [Thrishitha Dendi ](https://www.linkedin.com/in/thrishitha-reddy/)
+
 ---
