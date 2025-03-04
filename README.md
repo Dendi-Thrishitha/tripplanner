@@ -17,7 +17,7 @@
     <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
     <br />
     <br />
-
+</p>
 </div>
 </br>
 <div align="center">
