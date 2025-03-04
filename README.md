@@ -11,13 +11,14 @@
   <h3>AI-Based Trip Planner</h3>
 
   <p align="center">
-    Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
-    <br />
-    
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
-    <br />
-    <br />
+    Plan your perfect trip effortlessly with AI-powered personalized itineraries and curated hotel recommendations. 
+    Wander Boost simplifies travel planning by suggesting top destinations and activities tailored to your interests, 
+    ensuring an easy and enjoyable travel experience.
+    <br/><br/>
+    🌍 <a href="https://wanderboost.netlify.app/" target="_blank"><strong>Explore Now</strong></a> 🚀
+    <br/><br/>
 </p>
+
 </div>
 </br>
 <div align="center">
